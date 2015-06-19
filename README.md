@@ -7,4 +7,4 @@ Most of my work is obviously of a proprietary nature.  As such, I have tried add
 </ol>
 <strong>Folder:</strong> DI_IOC_Observer
 <br />
-This folder contains two samples of code that have similar functionality but written in PHP and Java.  C# will be coming soon.
+This folder contains examples of Dependency Injection, Inversion of Control, and the Observer Pattern.  Currently, there are two samples of code that have similar functionality but written in PHP and Java.  C# will be coming soon.
