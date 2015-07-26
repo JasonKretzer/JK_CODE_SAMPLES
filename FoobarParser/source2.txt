@@ -1,0 +1,22 @@
+program square(n: integer)
+{
+	var Result : integer;
+	
+	if n < 0 then
+	{
+		Result <- 0 & J;
+	}
+# a comment	
+	else
+	{
+		var x: integer;
+		x <- n * n;
+		Result <- x;
+	}
+	
+	var +;
+	var d;
+	
+	12AbC456;
+	
+}

@@ -1,0 +1,7 @@
+program first()
+{
+   var a: integer;
+   a <- 3 * -3;
+   print("hello );");  #notice how comments
+   print(a);
+}

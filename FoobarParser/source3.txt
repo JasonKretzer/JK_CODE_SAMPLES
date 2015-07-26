@@ -1,0 +1,17 @@
+program testone(bam:integer boom:Boolean)
+{
+	var x:integer;
+	var y:Boolean;
+	x <- 10;
+	y <- true;
+	
+	while x > 0 do
+	{
+		x <- x - 1;
+		
+		if x == 0 then
+		{
+			print("done");
+		}
+	}
+}

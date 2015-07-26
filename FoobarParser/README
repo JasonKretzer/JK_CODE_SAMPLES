@@ -1,0 +1,12 @@
+run like this:
+
+java main <source file name>
+
+NOTE:
+source.txt and source3.txt are fine
+source2.txt has an intentional error in it to check the parser
+
+
+
+Also Note:
+I should probably rewrite this to use IoC -- especially for the LexemeGenerator class
