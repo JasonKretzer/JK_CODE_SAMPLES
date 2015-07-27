@@ -11,4 +11,8 @@ This folder contains examples of Dependency Injection, Inversion of Control, and
 <br /><br />
 <strong>Folder:</strong> FoobarParser
 <br />
-This folder contains example of a very generic parser written Java.  I wrote this in grad school, and can see some improvements that I may some day make, particularly with long line of if/else statements.  Regardless, not a bad first shot at establishing a grammar.
+This folder contains example of a very generic parser written Java.  I wrote this in grad school, and can see some improvements that I may some day make, particularly with the long line of if/else statements.  Regardless, not a bad first shot at establishing a grammar.
+<br /><br />
+<strong>Folder:</strong> ConnectFour 
+<br />
+This folder contains example of a ConnectFour network game written Java.  It contains a server and client.  Must have two players.  I also wrote this in grad school as a proof of concept.  
