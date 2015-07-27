@@ -7,6 +7,10 @@ Most of my work is obviously of a proprietary nature.  As such, I have tried add
 	<li> varied enough to show a wide range of concepts</li>
 	<li> cut across varied stages of my career</li>
 </ol>
+
+I am continuing to fill this out so that I can provide some more modern code.
+<br /><br />
+
 <strong>Folder:</strong> DI_IOC_Observer (2015)
 <br />
 This folder contains examples of Dependency Injection, Inversion of Control, and the Observer Pattern.  There are three samples of code that have similar functionality but written in C#, PHP, and Java.  They are all three fairly simple and take advantage of the built-in Observer capabilities(interfaces) of each language.
